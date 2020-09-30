@@ -1,0 +1,9 @@
+/srv/DFSc/cs-teaching/home/u1/y69bai/CS754/Part2-Q4/grpc-data-transfer/src/main/java/com/example/grpc/DataServer.java
+/srv/DFSc/cs-teaching/home/u1/y69bai/CS754/Part2-Q4/grpc-data-transfer/target/generated-sources/protobuf/grpc-java/com/example/grpc/dataTransfer/DataTransferServiceGrpc.java
+/srv/DFSc/cs-teaching/home/u1/y69bai/CS754/Part2-Q4/grpc-data-transfer/target/generated-sources/protobuf/java/com/example/grpc/dataTransfer/ReplyOrBuilder.java
+/srv/DFSc/cs-teaching/home/u1/y69bai/CS754/Part2-Q4/grpc-data-transfer/src/main/java/com/example/grpc/DataTransferServiceImpl.java
+/srv/DFSc/cs-teaching/home/u1/y69bai/CS754/Part2-Q4/grpc-data-transfer/target/generated-sources/protobuf/java/com/example/grpc/dataTransfer/DataChunkOrBuilder.java
+/srv/DFSc/cs-teaching/home/u1/y69bai/CS754/Part2-Q4/grpc-data-transfer/target/generated-sources/protobuf/java/com/example/grpc/dataTransfer/DataChunk.java
+/srv/DFSc/cs-teaching/home/u1/y69bai/CS754/Part2-Q4/grpc-data-transfer/src/main/java/com/example/grpc/DataClient.java
+/srv/DFSc/cs-teaching/home/u1/y69bai/CS754/Part2-Q4/grpc-data-transfer/target/generated-sources/protobuf/java/com/example/grpc/dataTransfer/Reply.java
+/srv/DFSc/cs-teaching/home/u1/y69bai/CS754/Part2-Q4/grpc-data-transfer/target/generated-sources/protobuf/java/com/example/grpc/dataTransfer/DataTransferServiceOuterClass.java
